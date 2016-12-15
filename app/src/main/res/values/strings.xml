@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Day1_WorkShop</string>
+    <string name="home">SGD$</string>
+    <string name="next_design_layout">Next Design Layout</string>
+    <string-array name="currencies">
+        <item>US</item>
+        <item>MYR</item>
+        <item>AUD</item>
+    </string-array>
+    <string-array name="currencyV">
+        <item>1.4</item>
+        <item>1.02</item>
+        <item>0.35</item>
+    </string-array>
+
+    <string name="downarrow">▼</string>
+    <string name="uparrow">▲</string>
+    <string name="calculator">Calculator</string>
+    <string name="love_emoji">U+1F618</string>
+</resources>
